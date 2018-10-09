@@ -1,14 +1,13 @@
 
-Esquid:S1444")Make this "public static row" field final(ö¥‘éúÿÿÿÿ
-gsquid:S3008
-"PRename this field "WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­æ¯Ã
-9squid:S3010""Remove this assignment of "WIDTH".(ÑðÚ¡
-Vsquid:S11615":Add the "@Override" annotation above this method signature(âäÀæøÿÿÿÿ
-msquid:S3008"QRename this field "HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ŠÕïüÿÿÿÿ
-dsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(†Ó ~
+{"squid:ClassVariableVisibilityCheck"OMake col a static final constant or non-public and provide accessors if needed.(«Ü½á
+8squid:S3010"#Remove this assignment of "HEIGHT".(¬—œÁ
+bsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(†Ó ~
+>squid:S1444")Make this "public static col" field final(«Ü½á
+7squid:S3010""Remove this assignment of "WIDTH".(ÑðÚ¡
+Tsquid:S1161":Add the "@Override" annotation above this method signature(âäÀæøÿÿÿÿ
+ksquid:S3008"QRename this field "HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ŠÕïüÿÿÿÿ
+€"squid:ClassVariableVisibilityCheck"OMake row a static final constant or non-public and provide accessors if needed.(ö¥‘éúÿÿÿÿ
 1squid:S1220""Move this file to a named package.
-‚"squid:ClassVariableVisibilityCheck"OMake row a static final constant or non-public and provide accessors if needed.(ö¥‘éúÿÿÿÿ
-:squid:S3010"#Remove this assignment of "HEIGHT".(¬—œÁ
-}"squid:ClassVariableVisibilityCheck	"OMake col a static final constant or non-public and provide accessors if needed.(«Ü½á
-Qsquid:S11610":Add the "@Override" annotation above this method signature(Œ ÉÙ
-@squid:S1444	")Make this "public static col" field final(«Ü½á
+Osquid:S1161":Add the "@Override" annotation above this method signature(Œ ÉÙ
+esquid:S3008"PRename this field "WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­æ¯Ã
+Csquid:S1444")Make this "public static row" field final(ö¥‘éúÿÿÿÿ

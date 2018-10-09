@@ -7,3 +7,9 @@ B
 src/GameFrame.java,3\c\3c95753410edb86eaaa6923c8389717b8647488a
 E
 src/PictureFrame.java,b\0\b0e4b2a89d628e8c63479fd6292aea0e7e884b57
+K
+test/testsrc/BlockTest.java,a\c\ac4c5bc85480dce22bc9955f6f62089786ce6036
+O
+test/testsrc/GameFrameTest.java,8\c\8c5a4bda59cbda5cc93d9c9b50c0fdea018e3e2b
+O
+test/testsrc/GamePanelTest.java,7\d\7d64738142045a65ca5fc9718a748bf5964b85c3
