@@ -1,0 +1,18 @@
+
+@squid:S3010
+""Remove this assignment of "START".(ÎÌ±¦8ò´Éçå,
+tsquid:S3008"QRename this field "LENGTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€«šåÿÿÿÿÿ8ò´Éçå,
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥òšÒıÿÿÿÿ8Åù×çå,
+Osquid:S1444",Make this "public static LENGTH" field final(€«šåÿÿÿÿÿ8ò´Éçå,
+qsquid:S3008"NRename this field "END" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ÚÊ„ıÿÿÿÿ8ò´Éçå,
+ssquid:S3008"PRename this field "START" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úò ³ıÿÿÿÿ8ò´Éçå,
+Asquid:S3010	"#Remove this assignment of "LENGTH".(şÚ·»8ò´Éçå,
+Œ"squid:ClassVariableVisibilityCheck"RMake LENGTH a static final constant or non-public and provide accessors if needed.(€«šåÿÿÿÿÿ8ò´Éçå,
+Xsquid:S2209"5Change this instance-reference to a static reference.(ÿÁòüÿÿÿÿ8ò´Éçå,
+‹"squid:ClassVariableVisibilityCheck"QMake START a static final constant or non-public and provide accessors if needed.(úò ³ıÿÿÿÿ8ò´Éçå,
+‰"squid:ClassVariableVisibilityCheck"OMake END a static final constant or non-public and provide accessors if needed.(¢ÚÊ„ıÿÿÿÿ8ò´Éçå,
+Xsquid:S2209"5Change this instance-reference to a static reference.(ÿÁòüÿÿÿÿ8ò´Éçå,
+Nsquid:S1444"+Make this "public static START" field final(úò ³ıÿÿÿÿ8ò´Éçå,
+Lsquid:S1444")Make this "public static END" field final(¢ÚÊ„ıÿÿÿÿ8ò´Éçå,
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùíØ8ò´Éçå,
+Csquid:S3010" Remove this assignment of "END".(Ş’–ãşÿÿÿÿ8ò´Éçå,

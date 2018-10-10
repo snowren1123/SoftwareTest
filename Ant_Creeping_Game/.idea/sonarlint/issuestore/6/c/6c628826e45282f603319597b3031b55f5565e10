@@ -1,0 +1,29 @@
+
+lsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ØÖ¾ö8šàÈçå,
+isquid:S1192F"FDefine a constant instead of duplicating this literal "Start" 4 times.(è¿šşÿÿÿÿ8šàÈçå,
+Xsquid:S22097"5Change this instance-reference to a static reference.(æùœ‡şÿÿÿÿ8ØÂéå,
+~squid:S00116>"ZRename this field "jButton_Restart" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ø±øÿÿÿÿ8šàÈçå,
+Xsquid:S2209v"5Change this instance-reference to a static reference.(¶Øê˜ÿÿÿÿÿ8ØÂéå,
+Ssquid:S2209w"5Change this instance-reference to a static reference.(¢‚ì©8ØÂéå,
+msquid:S00100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ªîñ8šàÈçå,
+‘ squid:ForLoopCounterChangedCheckÎ"XRefactor the code in order to not assign to this loop counter from within the loop body.(­–„úÿÿÿÿ8šàÈçå,
+usquid:S001175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áñé¬ùÿÿÿÿ8šàÈçå,
+|squid:S00116>"XRename this field "jButton_Pause" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ø±øÿÿÿÿ8šàÈçå,
+Xsquid:S2209y"5Change this instance-reference to a static reference.(¡‚ŸÚüÿÿÿÿ8ØÂéå,
+zsquid:S00116"VRename this field "number_dirs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¢Ò“üÿÿÿÿ8šàÈçå,
+{squid:S00116A"WRename this field "display_dirs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ã¢¬ıÿÿÿÿ8šàÈçå,
+Nsquid:S1948"+Make "creepGame" transient or serializable.(‹âäúÿÿÿÿ8ØÂéå,
+Ssquid:S2209z"5Change this instance-reference to a static reference.(ı‡¿µ8ØÂéå,
+Rsquid:S2387£"."width" is the name of a field in "Component".(â‚ãóüÿÿÿÿ8šàÈçå,
+Tsquid:S2209Ù"5Change this instance-reference to a static reference.(Â„ê8ØÂéå,
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥òšÒıÿÿÿÿ8û…Øçå,
+Xsquid:S22096"5Change this instance-reference to a static reference.(å‹şÿÿÿÿ8ØÂéå,
+qsquid:S3776¸"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¶øÂÁ8šàÈçå,
+Tsquid:S2696/"6Make the enclosing method "static" or remove this set.(¡ÃÄ˜8šàÈçå,
+Psquid:S1659>"-Declare "jButton_Restart" on a separate line.(“Ø±øÿÿÿÿ8šàÈçå,
+Jsquid:S1659",Declare "textCountLabel" on a separate line.(¡¼Òæ8šàÈçå,
+dsquid:S1192"FDefine a constant instead of duplicating this literal "Pause" 3 times.(ÿ¹‰ñ8šàÈçå,
+‘ squid:ForLoopCounterChangedCheckÁ"XRefactor the code in order to not assign to this loop counter from within the loop body.(­–„úÿÿÿÿ8šàÈçå,
+Xsquid:S2209x"5Change this instance-reference to a static reference.(Âã–Íúÿÿÿÿ8ØÂéå,
+Gsquid:S1148š"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8šàÈçå,
+Ysquid:S2209Ö"5Change this instance-reference to a static reference.(•éíüÿÿÿÿ8ØÂéå,
